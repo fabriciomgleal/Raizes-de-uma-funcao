@@ -2,7 +2,7 @@
 #fx = [1/3,1/2,0,0]
 #raizes = npi.roots(fx)
 #print(raizes)
-#teste#
+
 list = []
 x=-1000.0
 while x < 10.0:
